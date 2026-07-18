@@ -1,0 +1,8 @@
+CLIENTE;Felipe Duran;18430844-4;fduran@gmail.com;VIP;Manantiales;Chillan;Nuble;394
+CLIENTE;María González;17543210-8;maria@gmail.com;Normal;Los Carrera;Puerto Varas;Los Lagos;220
+CLIENTE;Pedro Rojas;12345678-K;pedro@gmail.com;Premium;Baquedano;Osorno;Los Lagos;450
+CLIENTE;Ana Muñoz;15432876-5;ana@gmail.com;VIP;Prat;Puerto Montt;Los Lagos;180
+EMPLEADO;Sandra Pérez;11534344-0;sandra@gmail.com;900000;Los Aromos;Puerto Montt;Los Lagos;75
+EMPLEADO;Carlos Soto;16543219-7;carlos@gmail.com;1200000;O'Higgins;Puerto Varas;Los Lagos;150
+EMPLEADO;Patricia Díaz;14321987-6;patricia@gmail.com;850000;Arturo Prat;Frutillar;Los Lagos;310
+EMPLEADO;Jorge Alvarado;18765432-1;jorge@gmail.com;980000;Independencia;Llanquihue;Los Lagos;50
